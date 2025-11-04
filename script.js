@@ -79,7 +79,8 @@
 //Task 7: Check for Palindrome
 
 
-// let word = prompt("Enter any word : ");;
+// let word = prompt("Enter any word : ");
+// word = word.toLowerCase().replace(/\s+/g, "");
 // let reverse =""
 // for(i=word.length-1;i>=0;i--){
 //     reverse+=word[i]
