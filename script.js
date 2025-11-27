@@ -1,5 +1,5 @@
 //Task 1:  Round a Decimal Number
-
+//self code
 // let num=Number(prompt("Enter any number : "));
 // console.log(num)
 // console.log(num.toFixed(0))
@@ -10,7 +10,7 @@
 
 
 //Task 2: Generate a Random Number between Two Values
-
+//selfcode
 //console.log((Math.random()*10+10).toFixed(0))
 
 
@@ -18,7 +18,7 @@
 
 
 //Task 3:Sum of Digits of a Number
-
+//selfcode
 // let a=parseInt(prompt("Enter any number : "));
 // let b=Math.abs(a)
 // let c=b.toString()
@@ -31,7 +31,7 @@
 
 
 //Task 4: Format a Number as Currency
-
+//selfcode
 // let rupees = prompt("Enter your amount :");
 // let num = Number(rupees);  // convert string to number
 // let newNum = "₹" + num.toLocaleString('en-IN');
@@ -43,7 +43,7 @@
 
 
 //Task 5: Calculate Compound Interest
-
+//selfcode
 // let P=parseInt(prompt("Enter your Principal amount: "))
 // let R=parseInt(prompt("Enter your Rate of interest: "))
 // let T=parseInt(prompt("Enter your Time (in years) :"))
@@ -63,7 +63,7 @@
 
 
 //Task 6: Convert Case and Reverse a String
-
+//selfcode
 // let word = prompt("Enter any word : ");
 // let reverse =""
 // console.log(word.toUpperCase())
@@ -77,7 +77,7 @@
 
 
 //Task 7: Check for Palindrome
-
+//selfcode
 
 // let word = prompt("Enter any word : ");
 // word = word.toLowerCase().replace(/\s+/g, "");
@@ -98,7 +98,7 @@
 
 
 //Task 8:Count the Occurrences of a Word
-
+//selfcode
 // let word = prompt("Enter any word : ");
 // let sentence= prompt("Enter any sentence : ");
 // let count=0
@@ -114,7 +114,7 @@
 
 
 //Task 9: Capitalize the First Letter of Each Word
-
+//selfcode
 // let sentence =  prompt("Enter any sentence : ");;
 // let gap=sentence.split(" ");
 // let word=""
@@ -132,11 +132,8 @@
 // }
 // console.log(word)
 
-
-
-
-//Task : 10.Remove Duplicate Characters
-
+//Task: 10. Remove Duplicate Characters
+//selfcode
 // let text =  prompt("Enter any word : ");
 // let duplicate=""
 // for(i=0;i<text.length;i++){
